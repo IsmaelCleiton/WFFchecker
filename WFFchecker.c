@@ -169,7 +169,7 @@ int main()
 {
     
     char entrada[100];
-    printf("Bora ver qual o local: %s\n", setlocale(LC_ALL,""));
+    
     printf("Insira a expressão:\n--> ");
     scanf("%s", entrada);
     if (verification(entrada))
