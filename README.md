@@ -1,17 +1,19 @@
 # WFFchecker
  This is just a little code write in C. That checks if a propositional formula is valid.
  
-Dictonary:
- >Proposicional Conectives: 
+### Dictonary:
+ >__Proposicional Conectives:__ 
  >* -> - IMPLICATION
  >* <> - EQUIVALENCE
  >* && - AND
  >* || - OR
  >* !  - NEGATION
- >Proposicional Symbols: 
+ 
+ >__Proposicional Symbols:__ 
  >* P, Q, R, S, P1, Q1, R1, S1, P2, Q2..
- >* excluding lower case
- >True Symbols
+ >* excluding lower case 
+ 
+ >__True Symbols:__
  >* 0 - FALSE
  >* 1 - TRUE
 
